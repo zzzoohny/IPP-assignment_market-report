@@ -1,4 +1,4 @@
-# IPP-assignment_market-report
+# IPP assignment_market-report
 
 Write a python program to read the data in the csv file and generate a report in text file with the following information:
 
