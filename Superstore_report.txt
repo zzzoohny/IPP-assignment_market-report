@@ -1,25 +1,27 @@
 # Superstore Report
 
-## 1. The total Sales is $2297200.86
-## 2. The total Profit is $286397.02
+1. The total Sales is $2297200.86
+2. The total Profit is $286397.02
 
-## 3. Sales and profit per category
+3. Sales and profit per category
 
                 Sales      Profit
 Furniture       $741999.80 $18451.27
 Office Supplies $719047.03 $122490.80
 Technology      $836154.03 $145454.95
 
-#### 1) Results
+1) Results
 -> Sales ranking: Technology - Office Supplies - Furniture
 -> Profit ranking: Technology - Furniture - Office Supplies
 -> Furniture has the lowest sales while having the second highest profit. 
 -> Technology has both the highet sales and profit. 
 -> Office supplies hit the lowest profit despite its second highest sales ranking. 
-#### 2) Conclusion 
+
+2) Conclusion 
 -> We recommend Superstore to focus more on the sales of technology and furniture which generate higher level of profit compared to their levels of sales. 
 
-## 4. Sales and Profit per state
+
+4. Sales and Profit per state
 State Sales Profit
 Kentucky $36591.75 $11199.7
 California $457687.63 $76381.39
@@ -71,17 +73,17 @@ Idaho 4382.49 $826.72
 Wyoming $1603.14 $100.2
 "West Virginia" $1209.82 $185.92
 
-#### 1) Results
+1) Results
 - Sales ranking: California - New York - Texas
 - Profit ranking: California - New York - Washington
 - States with -ve profits: Oregan, Florida, Arizona, Tennessee, Colorado, North Carolina, Illinois, Pennsylvania, Ohio, Texas 
 
-#### 2) Conclusion
+2) Conclusion
 -> We recommend Superstore to focus on their business in California and New York. 
 We also recommend Superstore to review their business plan in states with negative profits, so that they can improve or drop it. They can invest those resources into states with more potential instead. 
 
 
-## 5. The best selling Sub-Category from each State
+5. The best selling Sub-Category from each State
 State Sub-Category Sales
 Alabama Tables $3040.0
 Arizona Tables $1879.96
